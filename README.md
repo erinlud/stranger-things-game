@@ -1,6 +1,7 @@
 # 🎮 Stranger Things Game
 
-A 2D game inspired by the **Stranger Things** universe, developed in **Java** using **advanced Object-Oriented Programming (OOP)** principles.
+A 2D game inspired by the **Stranger Things** universe, developed in **Java** using **advanced Object-Oriented Programming (OOP)** principles. 
+Used Gemini for the generation of the images used in the game.
 
 This project focuses on game logic, player interactions, enemies, and custom mechanics implemented with clean OOP design.
 
@@ -9,7 +10,7 @@ This project focuses on game logic, player interactions, enemies, and custom mec
 ## 🚀 Features
 
 - Player movement & keyboard controls  
-- Enemy AI  
+- Enemy vs player attack fights 
 - Combat system  
 - Shop system  
 - Game states (menu, gameplay, etc.)  
@@ -81,12 +82,6 @@ git clone https://github.com/erinlud/stranger-things-game.git
 - Collision detection  
 - Clean OOP architecture  
 - State management  
-
----
-
-## 📸 Screenshots
-*(Add screenshots here later)*
-
 ---
 
 ## 👩‍💻 Author
